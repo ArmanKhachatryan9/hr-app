@@ -1,0 +1,8 @@
+name: MyCompany
+address: Abelyan9
+industry: IT
+---
+id: 1, name: dsad, surname: sadasdsa, salary: 123, level: JUNIOR
+id: 2, name: dsa, surname: fdsa, salary: 1223, level: SENIOR
+id: 3, name: e, surname: q, salary: 1, level: JUNIOR
+

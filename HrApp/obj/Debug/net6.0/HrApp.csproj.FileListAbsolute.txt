@@ -1,0 +1,15 @@
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\bin\Debug\net6.0\HrApp.exe
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\bin\Debug\net6.0\HrApp.deps.json
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\bin\Debug\net6.0\HrApp.runtimeconfig.json
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\bin\Debug\net6.0\HrApp.dll
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\bin\Debug\net6.0\HrApp.pdb
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\obj\Debug\net6.0\HrApp.csproj.AssemblyReference.cache
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\obj\Debug\net6.0\HrApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\obj\Debug\net6.0\HrApp.AssemblyInfoInputs.cache
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\obj\Debug\net6.0\HrApp.AssemblyInfo.cs
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\obj\Debug\net6.0\HrApp.csproj.CoreCompileInputs.cache
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\obj\Debug\net6.0\HrApp.dll
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\obj\Debug\net6.0\refint\HrApp.dll
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\obj\Debug\net6.0\HrApp.pdb
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\obj\Debug\net6.0\HrApp.genruntimeconfig.cache
+C:\Users\support\Desktop\C# Blocnot\HrApp\HrApp\obj\Debug\net6.0\ref\HrApp.dll
